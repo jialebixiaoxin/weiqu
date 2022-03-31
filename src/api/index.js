@@ -2,8 +2,6 @@
 // 引入二次封装
 import requests from "./request";
 
-//三级联动的接口
-///api/product/getBaseCategoryList  get 无参数
 
 export const reqBannerList = () =>
     // 发请求 axios 发请求返回结果Promise 对象
